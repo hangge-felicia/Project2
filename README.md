@@ -7,7 +7,7 @@ This project analyzes Coachella headliner trends from 2013 to 2025 using scraped
 - 'coachella_cleaned_data_2013-2025.csv' - final merged and cleaned dataset used for plotting
 - 'coachella_genres_2013-2025.csv' - top genre tag for headliners (from Last.fm)
 - 'coachella_setlists_2013-2025.csv' - setlists for headliners (Setlist.fm)
-- 'plots/' - visualizations used to anwser data science questions 
+- 'plots:' - visualizations used to anwser data science questions 
 
 ## Sources Used 
 
